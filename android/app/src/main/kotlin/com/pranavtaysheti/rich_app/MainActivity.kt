@@ -1,4 +1,4 @@
-package com.example.rich_app
+package com.pranavtaysheti.rich_app
 
 import io.flutter.embedding.android.FlutterActivity
 
